@@ -33,6 +33,7 @@ Message packets are strings that contain three peices of information divided by 
 * [Socket Programming in Python](https://www.geeksforgeeks.org/socket-programming-python/)
 * [Implimentation of a simple client-server program | github](https://github.com/kanika2296/client-sever-password-based-authentication-in-python/tree/master)
 * [Reading and Writing to text files in Python - GeeksforGeeks](https://www.geeksforgeeks.org/reading-writing-text-files-python/)
+* [python - Error"(unicode error)..." - Stack OVerflow](https://stackoverflow.com/questions/37400974/error-unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3)
 
 # Future Work
 
